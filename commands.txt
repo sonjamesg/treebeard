@@ -1,0 +1,8 @@
+CD C:\Users\PreppersUK\Desktop\Treebeard
+npm install 
+npm run dev
+
+http://localhost:5173/
+
+
+
